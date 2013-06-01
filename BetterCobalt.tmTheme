@@ -180,11 +180,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#223545</string>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#6699CC20</string>
 			</dict>
 		</dict>
 		<dict>
