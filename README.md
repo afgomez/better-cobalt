@@ -17,4 +17,4 @@ Enjoy!
 
 ## How does it look like
 
-![Better Cobalt example](https://photos-2.dropbox.com/t/0/AADwsibBHsCd5rqIDRS36vk-3KEuhMzJoAIenfbfmWM8pg/12/5200959/png/2048x1536/3/1370131200/0/2/better-cobalt-example.png/0rRHNkBECLDJWxYcSwUqsz7HWGmGFtPi2X9NS76BHgk)
+![Better Cobalt example](http://s24.postimg.org/yhbzcspud/better_cobalt_example.png)
